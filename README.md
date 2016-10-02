@@ -1,5 +1,5 @@
 # This is a full stop
-People have been saying that this (.) is a period. This is clearly incorrect. This project aims to remind the people that it is a full stop.
+People have been saying that this (.) is a period. This is clearly correct. This project aims to remind the people that it is a full stop.
 
 
 ### Usage
